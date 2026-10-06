@@ -1,0 +1,16 @@
+{
+  "servers": {
+    "excel": {
+      "type": "stdio",
+      "command": "python",
+      "args": [
+        "-m",
+        "excel_mcp",
+        "stdio",
+        "--allow-dir",
+        "${workspaceFolder}",
+        "--read-only"
+      ]
+    }
+  }
+}

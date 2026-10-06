@@ -1,0 +1,19 @@
+SCORE/
+├── data/
+│   ├── raw/                 # Dataset original
+│   └── processed/           # Dataset limpio (.parquet)
+├── notebooks/               # EDA, limpieza y entrenamiento de modelos (Jupyter)
+├── models/                  # Modelos exportados (.pkl) y preprocesadores
+├── backend/
+│   ├── main.py              # Entry point de FastAPI
+│   ├── api/                 # Endpoints (rutas)
+│   ├── core/                # Configuración, prompts del LLM
+│   ├── services/            # Lógica (What-If, Barómetro, Agente LLM)
+│   └── templates/           # Plantillas HTML para el PDF
+└── frontend/
+    ├── src/
+    │   ├── components/      # UI (Botones, Tarjetas, Gráficas Tremor)
+    │   ├── pages/           # Vistas (Dashboard, What-If, Chat)
+    │   ├── services/        # Clientes Axios/Fetch hacia FastAPI
+    │   └── store/           # Estado global (Zustand o Context)
+    └── package.json
