@@ -1,0 +1,26 @@
+ESTRUCTURA Y SECCIONES PREGUNTAS POR TIPO EN 'BASE HISTORICA.xlsx':
+
+Tema	Rango(s) de columnas
+Identificación y datos de contacto	A – N (1–14)
+Aviso de privacidad y alcance del cuestionario	O – Q (15–17)
+Ubicación de plantas y parques industriales	R – AY (18–51)
+Perfil de la empresa e industria	AZ – DW (52–127); DY – GE (129–187)
+Sindicalización, conflictos laborales y seguridad	DX (128); GF – GK (188–193); ND – NE (368–369); TG – VU (527–593)
+Headcount y demografía del personal	GL – GV (194–204); JP – KB (276–288)
+Salarios y estructura salarial	GW – JO (205–275)
+Control y continuidad del cuestionario	KC – KD (289–290); VV (594); AJY (961); AQX (1142)
+Reclutamiento, contratación y escolaridad	KE – LA (291–313); QF – TF (448–526); AHY – AJX (909–960)
+Rotación y bajas de personal	LB – MB (314–340); VY – WU (597–619)
+Ausentismo, faltas e incapacidades	MC – MS (341–357); WV – XC (620–627)
+Capacitación y desarrollo	MT – NC (358–367)
+Incrementos salariales y revisión contractual	NF – QE (370–447)
+Proyección y evolución de plantilla	VW – VX (595–596); AJZ – AKA (962–963)
+Prestaciones económicas y de ley	XD – AAN (628–716)
+Reparto de utilidades (PTU)	AAO – ABG (717–735)
+Seguros de Gastos Médicos y de Vida	ABH – ACG (736–761)
+Prestaciones en especie y servicios al empleado	ACH – AHX (762–908)
+Practicantes y talento joven	AKB – AKY (964–987)
+Jornadas, turnos y horarios	AKZ – AMG (988–1021)
+Beneficios adicionales, incentivos y eventos	AMH – APY (1022–1117)
+Responsabilidad social y prácticas empresariales	APZ – AQW (1118–1141)
+
